@@ -1,0 +1,49 @@
+My Data,,,,,,
+Type ,Blocks ,Time,,,,
+Static,6,2614.499,,,,
+Static,5,1717.599,,,,
+Static,4,2777.613,,,,
+Static,3,2565.467,,,,
+Static,2,2130.02,,,,
+Static,1,1901.186,,,,
+Dynamic,6,3044.277,,,,
+Dynamic,5,2117.398,,,,
+Dynamic,4,2749.018,,,,
+Dynamic,3,2672.438,,,,
+Dynamic,2,2238.779,,,,
+Dynamic,1,3015.531,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,My Data: Pointing time =0.460+0.187*log2(30/120+1) = 0.5203ms,,,
+,,,,,,
+,,,,,,
+Other Persons data,,,,,,
+dynamic,1,5.881085674,,,,
+dynamic,2,3.22062695,,,,
+dynamic,3,3.759412686,,,,
+dynamic,4,5.384712577,,,,
+dynamic,5,6.020707687,,Avg all data,,
+dynamic,6,2.349842747,,dynamic,1,2620.639135
+static,1,2.858333685,,dynamic,2,1721.117598
+static,2,1.829151789,,dynamic,3,2781.612887
+static,3,1.917219202,,dynamic,4,2571.113401
+static,4,2.162556847,,dynamic,5,2136.285997
+static,5,1.559877634,,dynamic,6,1903.782571
+static,6,2.009197156,,static,1,3048.05786
+,,,,static,2,2119.918668
+,,,,static,3,2751.660857
+Another persons data,,,,static,4,2675.149955
+Static,1,0.777148,,static,5,2240.90866
+Static,2,0.893914,,static,6,3018.341169
+Static,3,0.721424,,,,
+Static,4,0.785064,,,,
+Static,5,0.735868,,,,
+Static,6,0.740184,,,,
+dynamic,1,2.76758,,,,
+dynamic,2,2.074548,,,,
+dynamic,3,2.176914,,,,
+dynamic,4,1.648194,,,,
+dynamic,5,1.709347,,,,
+dynamic,6,2.402916,,,,
